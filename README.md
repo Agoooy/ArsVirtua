@@ -14,6 +14,8 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 • **Artist Spotlights:** Discover emerging and established artists through exclusive interviews, behind-the-scenes content, and in-depth profiles.
 
+---
+
 ### Powered by
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
