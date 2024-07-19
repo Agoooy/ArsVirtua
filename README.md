@@ -34,6 +34,6 @@ To ensure top-tier performance and reliability, ArsVirtua is deployed on Vercel,
 
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/made-with-love__.png"
+    <img src="https://forthebadge.com/images/badges/made-with-love__.svg"
 
 </div>
