@@ -1,4 +1,4 @@
-### ArsVirtua
+## ArsVirtua
 
 ---
 
@@ -6,7 +6,7 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs&theme=light)](https://skillicons.dev)
 
@@ -14,7 +14,7 @@ ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, 
 
 ---
 
-### Deployed on
+## Deployed on
 
 [![My Skills](https://skillicons.dev/icons?i=vercel&theme=light)](https://skillicons.dev)
 
