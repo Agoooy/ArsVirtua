@@ -6,7 +6,7 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 ---
 
-### Tech stack
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs&theme=light)](https://skillicons.dev)
 
