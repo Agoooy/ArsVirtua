@@ -22,7 +22,7 @@ ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, 
 
 ---
 
-## Deploy
+### Deployed on
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
