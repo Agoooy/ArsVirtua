@@ -14,6 +14,12 @@ ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, 
 
 ---
 
+## Deploy
+
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+---
+
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
