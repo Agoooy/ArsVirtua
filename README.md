@@ -1,8 +1,4 @@
-<div align="center"
-
-# ArsVirtua: Your Gateway to The Digital Art World
-
-</div>
+## ArsVirtua: Your Gateway to The Digital Art World
 
 ---
 
