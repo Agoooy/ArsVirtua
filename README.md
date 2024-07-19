@@ -16,7 +16,8 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 ---
 
-### Powered by
+<div align="left">
+    <img src="https://forthebadge.com/images/badges/made-with-next13.svg" />
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs&theme=light)](https://skillicons.dev)
 
