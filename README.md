@@ -16,10 +16,9 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 ---
 
-<div align="left">
-    <img src="https://forthebadge.com/images/badges/made-with-next-13.svg" />
+### Powered by
 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nextjs&theme=light)](https://skillicons.dev)
 
 ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, and scalable platform.
 
@@ -35,6 +34,6 @@ To ensure top-tier performance and reliability, ArsVirtua is deployed on Vercel,
 
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+    <img src="https://forthebadge.com/images/badges/made-with-love__.png"
 
 </div>
