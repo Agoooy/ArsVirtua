@@ -8,14 +8,15 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 ## Tech Stack
 
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nextjs logo"  />
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+
 ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, and scalable platform.
 
 ---
 
 ## Deployed on
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="vercel logo"  />
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 To ensure top-tier performance and reliability, ArsVirtua is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.
 
