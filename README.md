@@ -1,6 +1,6 @@
 <div align="center"
 
-## ArsVirtua: Your Gateway to The Digital Art World
+# ArsVirtua: Your Gateway to The Digital Art World
 
 </div>
 
