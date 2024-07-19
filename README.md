@@ -14,3 +14,5 @@
 ## Framework
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+
+ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, and scalable platform. Next.js allows for seamless server-side rendering and static site generation, providing an optimal user experience with enhanced performance and security.
