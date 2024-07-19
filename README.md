@@ -20,7 +20,6 @@ ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, 
 ---
 
 <div align="center">
-
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 
 </div>
