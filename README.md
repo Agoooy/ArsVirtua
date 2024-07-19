@@ -6,16 +6,6 @@ ArsVirtua is an innovative online art museum dedicated to showcasing a diverse r
 
 ---
 
-### Key Features
-
-• **Virtual Exhibitions:** Explore meticulously curated exhibitions featuring contemporary and classical artworks in a visually stunning virtual environment.
-
-• **Interactive Tours:** Engage with art through interactive tours guided by expert curators, offering deep insights into the history, context, and techniques behind each piece.
-
-• **Artist Spotlights:** Discover emerging and established artists through exclusive interviews, behind-the-scenes content, and in-depth profiles.
-
----
-
 ### Powered by
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs&theme=light)](https://skillicons.dev)
