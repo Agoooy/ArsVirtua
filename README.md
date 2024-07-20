@@ -32,7 +32,7 @@
 
 <div>
     <img src="https://forthebadge.com/images/badges/code-done-bugs-none.svg" alt="Code Done Bugs None" />
-    <img src="https://forthebadge.com/images/badges/made-with-love.svg" alt="Made with Love" />
+    <img src="https://forthebadge.com/images/badges/made-with-love__.svg" alt="Made with Love__" />
 </div>
 
 </div>
