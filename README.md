@@ -2,7 +2,7 @@
 <h1>ArsVirtua</h2>
 </p>
 
-  <mark>ArsVirtua</mark> is an open-source project that I developed to create an innovative online museum. This project aims to collect, display, and celebrate artworks from legendary artists around the world. With <mark>ArsVirtua,</mark> users can enjoy a wide range of famous artworks without geographical limitations, making art more accessible to everyone.
+  **ArsVirtua** is an open-source project that I developed to create an innovative online museum. This project aims to collect, display, and celebrate artworks from legendary artists around the world. With **ArsVirtua**, users can enjoy a wide range of famous artworks without geographical limitations, making art more accessible to everyone.
   <br/>
   <br/> And don't forget to check out the [demo](https://ars-virtua.vercel.app) preview.
 
