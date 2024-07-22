@@ -24,7 +24,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 ### Connect with me
-  You can reach me through My Gmail, LinkedIn, X, or Instagram account
+  You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
  href="mailto:yogaardikaaa123@gmail.com?subject=Hi%20Yoga,%20I'd%20like%20to%20hire%20you">
@@ -32,9 +32,6 @@
 </a>
 <a href="https://www.linkedin.com/in/agooy/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo" />
-</a>
-<a href="https://twitter.com/mamahakutakut">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="27" alt="twitter logo" />
 </a>
 <a href="https://instagram.com/yogardkaa">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
