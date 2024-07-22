@@ -6,7 +6,7 @@
   <br/>
   <br/> And don't forget to check out the [demo](https://ars-virtua.vercel.app) preview.
 
-### Fitur utama
+### Main feature
 >1. Legendary Art Collection.
 >2. Interactive Experience.
 >3. In-Depth Information.
