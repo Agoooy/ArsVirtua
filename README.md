@@ -36,4 +36,10 @@
 <a href="https://instagram.com/yogardkaa">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
 </a>
+
 ---
+<div align="center">
+
+![MadeWithLove](https://forthebadge.com/images/badges/made-with-love__.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
+</div>
