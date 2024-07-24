@@ -12,6 +12,7 @@
 >3. In-Depth Information.
 >4. Global Access.
 >5. Open Source.
+
 ---
 ### Tech stack
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -22,6 +23,7 @@
 
 ### Deployed on
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
 ### Connect with me
   You can reach me through My Gmail, LinkedIn, or Instagram account
